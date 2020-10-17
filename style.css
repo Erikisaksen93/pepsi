@@ -48,6 +48,12 @@ header ul li a {
     text-decoration: none;
 }
 
+header ul li a:hover {
+    transform: translateY(-5px);
+    font-weight: 600;
+    font-size: 1.5em;
+}
+
 .content {
     position: relative;
     width: 100%;
